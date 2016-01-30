@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+when we initialie a repository a .git file is made which ontains all about the version histor and git status.
+we need to make it beause we want to track our versions of different files
