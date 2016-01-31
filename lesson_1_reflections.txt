@@ -1,11 +1,11 @@
-the diff functionality  will help me to understand the difference between the two files.the minus sign shows what has  been missing on the new file and the plus signn shows what has been added.
+the diff functionality  will help me to understand the difference between the two files.the minus sign shows what has  been missing on the new file and the plus sign shows what has been added.
 it create  a differnt image in my head as i will remember to use -u fr unified difference.
 
 
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-In my opinion  verion history helps in finding bugsand errors more easily
-other advantages would be the less thinking that my work would be ruined.
+In my opinion  verion history helps in finding bugs  and errors more easily
+other advantages would be the less worry that my work would be ruined.
 
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?

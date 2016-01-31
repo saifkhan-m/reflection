@@ -1,3 +1,31 @@
 What happens when you initialize a repository? Why do you need to do it?
-when we initialie a repository a .git file is made which ontains all about the version histor and git status.
-we need to make it beause we want to track our versions of different files
+when we initialie a repository a .git file is made which contains all info about the version history and git status.
+we need to make it because we want to track our versions of different files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is an intermediate area where the files we want to commit are placed so that they can be commited at any time.
+it is different from working directory beacause nothing is placed there it is just an area
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+we should check if the files which were affected by 1 logical change
+and then we should commit those files only
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if i want to add an extra feature to the code
+if a different of parameters are used and different languages are used
+fixing bugs
+
+
+How do the diagrams help you visualize the branch structure?
+it gives the complete picture to what all are branches and the reachability to different commits inthe structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the two branches are merged and sorted by timestamps
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros
+we ca have more control over our project
+time taken would be less
